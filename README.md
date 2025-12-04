@@ -1,2 +1,0 @@
-# Block-Puzzle-3-Piece-Version-by-youssefjr.7
-Block Puzzle (3-Piece Version) - A polished and modern puzzle experience built with Pygame. 🎮 **Controls** • Left Click → Place the selected piece (top-left position) • R → Restart the game • S → Save highscore manually • ESC → Quit to menu • Menu navigation with Up / Down / Enter      Made with ❤️ using Python &amp; Pygame.  Made By: YOUSSEFJR.7 💯😎
